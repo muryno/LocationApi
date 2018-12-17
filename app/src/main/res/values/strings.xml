@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Google Play Services Location API</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="city">Present Location</string>
+    <string name="no_text"> </string></resources>
